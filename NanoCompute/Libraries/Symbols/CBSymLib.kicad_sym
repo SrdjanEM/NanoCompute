@@ -3366,7 +3366,7 @@
 				)
 			)
 			(pin input line
-				(at -40.64 -41.91 0)
+				(at -40.64 -36.83 0)
 				(length 7.62)
 				(name "CA4_A"
 					(effects
@@ -3438,7 +3438,7 @@
 				)
 			)
 			(pin input line
-				(at -40.64 -36.83 0)
+				(at -40.64 -41.91 0)
 				(length 7.62)
 				(name "CA2_A"
 					(effects
@@ -3456,7 +3456,7 @@
 				)
 			)
 			(pin input line
-				(at -40.64 -44.45 0)
+				(at -40.64 -34.29 0)
 				(length 7.62)
 				(name "CA5_A"
 					(effects
@@ -3474,7 +3474,7 @@
 				)
 			)
 			(pin input line
-				(at -40.64 -34.29 0)
+				(at -40.64 -44.45 0)
 				(length 7.62)
 				(name "CA1_A"
 					(effects

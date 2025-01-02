@@ -452,7 +452,7 @@
     ]
   },
   "meta": {
-    "filename": "CuriosityBoard.kicad_pro",
+    "filename": "NanoCompute.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -483,8 +483,25 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "DDR4",
-        "pcb_color": "rgb(0, 194, 0)",
+        "name": "LPDDR4_A",
+        "pcb_color": "rgb(194, 0, 194)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "LPDDR4_B",
+        "pcb_color": "rgb(0, 255, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.6,
@@ -495,14 +512,40 @@
     "meta": {
       "version": 3
     },
-    "net_colors": {
-      "/LPDDR4/DQ0_A": "rgb(0, 194, 0)"
-    },
+    "net_colors": null,
     "netclass_assignments": {
-      "/LPDDR4/DQ0_A": "DDR4",
-      "/LPDDR4/DQ1_A": "DDR4",
-      "/LPDDR4/DQ2_A": "DDR4",
-      "/LPDDR4/DQ3_A": "DDR4"
+      "/LPDDR4/DQ0_A": "LPDDR4_A",
+      "/LPDDR4/DQ0_B": "LPDDR4_B",
+      "/LPDDR4/DQ10_A": "LPDDR4_A",
+      "/LPDDR4/DQ10_B": "LPDDR4_B",
+      "/LPDDR4/DQ11_A": "LPDDR4_A",
+      "/LPDDR4/DQ11_B": "LPDDR4_B",
+      "/LPDDR4/DQ12_A": "LPDDR4_A",
+      "/LPDDR4/DQ12_B": "LPDDR4_B",
+      "/LPDDR4/DQ13_A": "LPDDR4_A",
+      "/LPDDR4/DQ13_B": "LPDDR4_B",
+      "/LPDDR4/DQ14_A": "LPDDR4_A",
+      "/LPDDR4/DQ14_B": "LPDDR4_B",
+      "/LPDDR4/DQ15_A": "LPDDR4_A",
+      "/LPDDR4/DQ15_B": "LPDDR4_B",
+      "/LPDDR4/DQ1_A": "LPDDR4_A",
+      "/LPDDR4/DQ1_B": "LPDDR4_B",
+      "/LPDDR4/DQ2_A": "LPDDR4_A",
+      "/LPDDR4/DQ2_B": "LPDDR4_B",
+      "/LPDDR4/DQ3_A": "LPDDR4_A",
+      "/LPDDR4/DQ3_B": "LPDDR4_B",
+      "/LPDDR4/DQ4_A": "LPDDR4_A",
+      "/LPDDR4/DQ4_B": "LPDDR4_B",
+      "/LPDDR4/DQ5_A": "LPDDR4_A",
+      "/LPDDR4/DQ5_B": "LPDDR4_B",
+      "/LPDDR4/DQ6_A": "LPDDR4_A",
+      "/LPDDR4/DQ6_B": "LPDDR4_B",
+      "/LPDDR4/DQ7_A": "LPDDR4_A",
+      "/LPDDR4/DQ7_B": "LPDDR4_B",
+      "/LPDDR4/DQ8_A": "LPDDR4_A",
+      "/LPDDR4/DQ8_B": "LPDDR4_B",
+      "/LPDDR4/DQ9_A": "LPDDR4_A",
+      "/LPDDR4/DQ9_B": "LPDDR4_B"
     },
     "netclass_patterns": []
   },

@@ -622,7 +622,7 @@
 			)
 		)
 		(instances
-			(project "CuriosityBoard"
+			(project "NanoCompute"
 				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f"
 					(page "4")
 				)
@@ -664,7 +664,7 @@
 			)
 		)
 		(instances
-			(project "CuriosityBoard"
+			(project "NanoCompute"
 				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f"
 					(page "2")
 				)
@@ -706,7 +706,7 @@
 			)
 		)
 		(instances
-			(project "CuriosityBoard"
+			(project "NanoCompute"
 				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f"
 					(page "3")
 				)
