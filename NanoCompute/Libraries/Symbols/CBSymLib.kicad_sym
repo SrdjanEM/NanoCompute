@@ -2664,7 +2664,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -40.64 -97.79 0)
+				(at -40.64 -101.6 0)
 				(length 7.62)
 				(name "ZQ0"
 					(effects
@@ -2682,7 +2682,7 @@
 				)
 			)
 			(pin power_in line
-				(at -40.64 -100.33 0)
+				(at -40.64 -104.14 0)
 				(length 7.62)
 				(name "ZQ1"
 					(effects
@@ -3312,7 +3312,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -40.64 -120.65 0)
+				(at -40.64 -123.19 0)
 				(length 7.62)
 				(name "NC"
 					(effects
@@ -3330,7 +3330,7 @@
 				)
 			)
 			(pin input line
-				(at -40.64 -87.63 0)
+				(at -40.64 -93.98 0)
 				(length 7.62)
 				(name "ODT_CA_A"
 					(effects
@@ -3564,7 +3564,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -40.64 -118.11 0)
+				(at -40.64 -120.65 0)
 				(length 7.62)
 				(name "NC"
 					(effects
@@ -3582,7 +3582,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -40.64 -115.57 0)
+				(at -40.64 -118.11 0)
 				(length 7.62)
 				(name "NC"
 					(effects
@@ -3600,7 +3600,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -40.64 -113.03 0)
+				(at -40.64 -115.57 0)
 				(length 7.62)
 				(name "NC"
 					(effects
@@ -3618,7 +3618,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -40.64 -110.49 0)
+				(at -40.64 -113.03 0)
 				(length 7.62)
 				(name "NC"
 					(effects
@@ -3852,7 +3852,7 @@
 				)
 			)
 			(pin input line
-				(at -40.64 -93.98 0)
+				(at -40.64 -109.22 0)
 				(length 7.62)
 				(name "RESET_n"
 					(effects
@@ -3870,7 +3870,7 @@
 				)
 			)
 			(pin input line
-				(at 40.64 -87.63 180)
+				(at -40.64 -96.52 0)
 				(length 7.62)
 				(name "ODT_CA_B"
 					(effects
@@ -4104,7 +4104,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -68.58 180)
+				(at 40.64 -71.12 180)
 				(length 7.62)
 				(name "DMI1_B"
 					(effects
@@ -4158,7 +4158,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -71.12 180)
+				(at 40.64 -68.58 180)
 				(length 7.62)
 				(name "DMI0_B"
 					(effects
