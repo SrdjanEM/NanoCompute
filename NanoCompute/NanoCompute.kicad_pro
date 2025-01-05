@@ -744,6 +744,10 @@
     [
       "1c58f9d0-144f-42c9-b003-b9daf72d9c64",
       "LPDDR4"
+    ],
+    [
+      "61430c16-e72c-45ec-aff1-4e70bfe3da7d",
+      "HDMI"
     ]
   ],
   "text_variables": {}

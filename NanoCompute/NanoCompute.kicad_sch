@@ -630,6 +630,48 @@
 		)
 	)
 	(sheet
+		(at 24.13 120.65)
+		(size 67.31 78.74)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.4)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 74 190 97 1.0000)
+		)
+		(uuid "61430c16-e72c-45ec-aff1-4e70bfe3da7d")
+		(property "Sheetname" "HDMI"
+			(at 24.13 118.9496 0)
+			(effects
+				(font
+					(size 3 3)
+					(thickness 0.6)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HDMI.kicad_sch"
+			(at 24.13 200.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 24.13 25.4)
 		(size 67.31 78.74)
 		(fields_autoplaced yes)

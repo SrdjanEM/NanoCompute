@@ -1,4 +1,4 @@
-24430004926483373
+24431740959266701
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2568,6 +2568,13 @@ speaker CUI
 0
 2
 2
+CBFtLib
+685119134923
+<B>WR-COM HDMI SMT Horizontal <BR></B>19 pins
+
+0
+23
+23
 CBFtLib
 BEL_2250506-1
 
