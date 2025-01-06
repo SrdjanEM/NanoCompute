@@ -5,7 +5,8 @@
 	(uuid "3a0a6fc3-d957-4804-b3c3-6d269c038b1f")
 	(paper "A3")
 	(title_block
-		(date "2025-01-01")
+		(title "NanoCompute")
+		(date "2025-01-06")
 		(rev "v1.0")
 	)
 	(lib_symbols
@@ -323,6 +324,96 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 340.36 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1904e70-e2a6-4052-89af-18b1561cfba1")
+		(property "Reference" "C15"
+			(at 342.9 40.6462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2u2"
+			(at 342.9 43.1862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 340.36 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R60J225ME47-01.pdf"
+			(at 340.36 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2.2 µF ±20% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
+			(at 340.36 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey stock" "7,591,739 - 6/7/2024"
+			(at 340.36 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033R60J225ME47D"
+			(at 340.36 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "119fbc1a-87a7-44b9-ac18-85027645614c")
+		)
+		(pin "2"
+			(uuid "e9302840-1940-453e-8b15-2ac942d4b771")
+		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f"
+					(reference "C15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 340.36 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -625,6 +716,48 @@
 			(project "NanoCompute"
 				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 120.65)
+		(size 67.31 78.74)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.4)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 74 190 97 1.0000)
+		)
+		(uuid "32c3c7d7-40f6-42b4-b315-7f2d0b1eee7c")
+		(property "Sheetname" "eMMC"
+			(at 104.14 118.9496 0)
+			(effects
+				(font
+					(size 3 3)
+					(thickness 0.6)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EMMC.kicad_sch"
+			(at 104.14 200.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f"
+					(page "6")
 				)
 			)
 		)

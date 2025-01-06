@@ -5,7 +5,8 @@
 	(uuid "1a0a9076-40a3-49e5-8f12-2e7c5b55d39b")
 	(paper "A4")
 	(title_block
-		(date "2025-01-01")
+		(title "NanoCompute")
+		(date "2025-01-06")
 		(rev "v1.0")
 	)
 	(lib_symbols

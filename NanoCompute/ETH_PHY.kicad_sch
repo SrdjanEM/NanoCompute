@@ -5,8 +5,8 @@
 	(uuid "1a0a9076-40a3-49e5-8f12-2e7c5b55d39b")
 	(paper "A3")
 	(title_block
-		(title "Curiosity Board")
-		(date "2025-01-01")
+		(title "NanoCompute")
+		(date "2025-01-06")
 		(rev "v1.0")
 		(comment 3 "Power over Ethernet (PoE)")
 		(comment 4 "Gigabit Ethernet PHY")
@@ -6943,7 +6943,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "0511a12c-aab3-49f6-9b39-a5a8359be0bd")
-		(property "Reference" "R24"
+		(property "Reference" "R?"
 			(at 373.38 74.9299 0)
 			(effects
 				(font
@@ -7014,6 +7014,14 @@
 		(pin "1"
 			(uuid "b1f8f566-65a4-46e5-917b-0ae5812999f2")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -7024,7 +7032,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "05edaa77-6988-4a8a-8d18-448cb7f8ea3f")
-		(property "Reference" "R25"
+		(property "Reference" "R?"
 			(at 358.14 133.3499 0)
 			(effects
 				(font
@@ -7095,6 +7103,14 @@
 		(pin "1"
 			(uuid "2c8b8445-93be-4369-bc52-ab9916fd3bd0")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -7105,7 +7121,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0826c9fc-4585-46b1-9f3c-9eb47f83659b")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR?"
 			(at 307.34 160.02 0)
 			(effects
 				(font
@@ -7152,6 +7168,14 @@
 		(pin "1"
 			(uuid "e3ed0f66-16b8-4c6b-b6c4-626a99e52643")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -7162,7 +7186,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a3013a6-760f-4619-bad6-5246f48ba93e")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR?"
 			(at 140.97 149.86 0)
 			(effects
 				(font
@@ -7211,6 +7235,14 @@
 		(pin "1"
 			(uuid "17a23611-7bad-43ae-9386-708223101922")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -7222,7 +7254,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d74bf7e-ed83-4173-bbd0-199d4d874e79")
-		(property "Reference" "R18"
+		(property "Reference" "R?"
 			(at 369.57 201.9299 0)
 			(effects
 				(font
@@ -7293,6 +7325,14 @@
 		(pin "1"
 			(uuid "01347811-10f2-4fcd-aa77-46b78727456d")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -7303,7 +7343,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f58f0e1-0f78-4432-86c4-06e83e54e131")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR?"
 			(at 353.06 100.33 0)
 			(effects
 				(font
@@ -7350,6 +7390,14 @@
 		(pin "1"
 			(uuid "b9a65f16-1e8e-45bf-879f-f4eb42ba64c0")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -7361,7 +7409,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "207e42ec-ed71-45cc-a41e-7604ae8cb79e")
-		(property "Reference" "R15"
+		(property "Reference" "R?"
 			(at 359.41 189.2299 0)
 			(effects
 				(font
@@ -7432,6 +7480,14 @@
 		(pin "1"
 			(uuid "5bfef986-7d56-4b19-b985-94598d2235c7")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -7443,7 +7499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24f2bb9d-c85c-467e-990b-5b45416fdf4c")
-		(property "Reference" "C11"
+		(property "Reference" "C?"
 			(at 240.03 105.4162 0)
 			(effects
 				(font
@@ -7514,6 +7570,14 @@
 		(pin "2"
 			(uuid "1a6e1838-b8e8-4e59-8e5e-56c3df6b66e7")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -7525,7 +7589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2726c167-6b1e-4df3-b0f9-3d78e8a3fec8")
-		(property "Reference" "C20"
+		(property "Reference" "C?"
 			(at 321.31 148.5962 0)
 			(effects
 				(font
@@ -7596,6 +7660,14 @@
 		(pin "2"
 			(uuid "b7894806-d583-4277-adaf-31e2666aa10c")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -7606,7 +7678,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2a2d899e-3ce2-42d8-be20-2be9ce4bec58")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR?"
 			(at 278.13 116.84 0)
 			(effects
 				(font
@@ -7653,6 +7725,14 @@
 		(pin "1"
 			(uuid "f5bc99f4-5942-4d55-939e-b9346499793c")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -7664,7 +7744,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2ada8191-b584-4645-80db-4ec6b5cbc813")
-		(property "Reference" "R23"
+		(property "Reference" "R?"
 			(at 373.38 88.8999 0)
 			(effects
 				(font
@@ -7735,6 +7815,14 @@
 		(pin "1"
 			(uuid "b5e8463d-7403-4224-ab7e-7058e987802f")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -7745,7 +7833,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2b4e909c-175c-414f-a7c0-f7e9509583b5")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR?"
 			(at 170.18 160.02 0)
 			(effects
 				(font
@@ -7792,6 +7880,14 @@
 		(pin "1"
 			(uuid "22d1c6e2-2bd7-4f88-b0ec-dcc9cd387ff3")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -7802,7 +7898,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2bafbd1f-7c9a-4f17-aa84-23fd4353eed8")
-		(property "Reference" "R27"
+		(property "Reference" "R?"
 			(at 368.3 146.0499 0)
 			(effects
 				(font
@@ -7873,6 +7969,14 @@
 		(pin "1"
 			(uuid "4634aee3-c33c-44c6-9996-939b34a2d3be")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -7883,7 +7987,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2d64379e-28d8-47f6-915d-c6e4707bf810")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR?"
 			(at 351.79 187.96 0)
 			(effects
 				(font
@@ -7932,6 +8036,14 @@
 		(pin "1"
 			(uuid "bd95d786-bc7d-42da-abdc-11bebc07b27e")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -7943,7 +8055,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2d6dcf26-0258-46f5-bb9a-b9eda6a278b1")
-		(property "Reference" "C23"
+		(property "Reference" "C?"
 			(at 167.64 119.3862 0)
 			(effects
 				(font
@@ -8014,6 +8126,14 @@
 		(pin "2"
 			(uuid "fed960fc-bb08-4b10-9f99-a007b1257d59")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -8025,7 +8145,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f93efbc-9f2a-4cbc-a451-d741b417bfed")
-		(property "Reference" "C13"
+		(property "Reference" "C?"
 			(at 280.67 105.4162 0)
 			(effects
 				(font
@@ -8096,6 +8216,14 @@
 		(pin "2"
 			(uuid "39585835-050c-4c36-adce-5d4fa18faf19")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -8106,7 +8234,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "37648c48-a8ef-48ee-a31f-a576a3cc221a")
-		(property "Reference" "C24"
+		(property "Reference" "C?"
 			(at 48.26 152.4062 0)
 			(effects
 				(font
@@ -8177,6 +8305,14 @@
 		(pin "2"
 			(uuid "f1c6651e-698e-4b07-8457-c5d8a9a14078")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3.3VA")
@@ -8187,7 +8323,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "382e5c05-fcba-4df2-9377-5d1d2698e4ab")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR?"
 			(at 284.48 80.01 0)
 			(effects
 				(font
@@ -8236,6 +8372,14 @@
 		(pin "1"
 			(uuid "85026f80-b1b9-4b17-ab5f-068b6448a639")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -8246,7 +8390,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3f18a813-321f-4faf-88e7-4867191354e7")
-		(property "Reference" "R6"
+		(property "Reference" "R?"
 			(at 234.95 193.548 90)
 			(effects
 				(font
@@ -8313,6 +8457,14 @@
 		(pin "1"
 			(uuid "8789d55e-4834-4e69-afdf-6524b61f1e01")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -8324,7 +8476,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "468cd4b3-6919-44ae-bb65-c5b2029a4b0d")
-		(property "Reference" "R12"
+		(property "Reference" "R?"
 			(at 151.13 126.9999 0)
 			(effects
 				(font
@@ -8395,6 +8547,14 @@
 		(pin "1"
 			(uuid "2acbfbbc-6e49-4b01-bd7c-d570a0c90650")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -8406,7 +8566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49a9b22b-c743-4932-b375-1370e7d43d71")
-		(property "Reference" "C21"
+		(property "Reference" "C?"
 			(at 260.35 81.2862 0)
 			(effects
 				(font
@@ -8477,6 +8637,14 @@
 		(pin "2"
 			(uuid "d8b2f0bc-e5d2-491b-a1a0-2ef624db4f19")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -8487,7 +8655,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4e260676-2292-445a-9cac-5c17362da589")
-		(property "Reference" "R29"
+		(property "Reference" "R?"
 			(at 46.99 124.968 90)
 			(effects
 				(font
@@ -8554,6 +8722,14 @@
 		(pin "1"
 			(uuid "bb820125-ad90-4fb5-975b-dcca73b65741")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -8564,7 +8740,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "530928bd-e27e-4e31-b026-eb1529511ec1")
-		(property "Reference" "R4"
+		(property "Reference" "R?"
 			(at 234.95 188.468 90)
 			(effects
 				(font
@@ -8631,6 +8807,14 @@
 		(pin "1"
 			(uuid "56b7dc58-3053-429f-895c-31fb8c352340")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -8642,7 +8826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ab28f6b-0c97-4401-ad46-e9a12e3e02c2")
-		(property "Reference" "C16"
+		(property "Reference" "C?"
 			(at 236.22 81.2862 0)
 			(effects
 				(font
@@ -8713,6 +8897,14 @@
 		(pin "2"
 			(uuid "ad93cd03-6289-41b4-8726-dfb5411ab295")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3.3VA")
@@ -8723,7 +8915,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5b890877-ea9f-429e-b2ca-1046c11dabce")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR?"
 			(at 170.18 113.03 0)
 			(effects
 				(font
@@ -8772,6 +8964,14 @@
 		(pin "1"
 			(uuid "87536e2c-156b-4fe5-af96-5bd5d8592802")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "CBSymLib:ECS-2520MV-250-CN-TR")
@@ -8782,7 +8982,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e8463fa-7bbb-4211-99d5-3f7a835ef869")
-		(property "Reference" "Y1"
+		(property "Reference" "Y?"
 			(at 154.94 140.208 0)
 			(effects
 				(font
@@ -8858,6 +9058,14 @@
 		(pin "3"
 			(uuid "10ef0173-49d4-4eea-9327-6c4602545d1d")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "Y?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -8868,7 +9076,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5eddd235-3982-44a5-b37a-7da4526e8331")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR?"
 			(at 63.5 143.51 0)
 			(effects
 				(font
@@ -8915,6 +9123,14 @@
 		(pin "1"
 			(uuid "20cca4ab-ed08-448f-93aa-372aba4df6f6")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -8926,7 +9142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f3558f2-d403-4d15-a7e2-f176a6a93405")
-		(property "Reference" "C18"
+		(property "Reference" "C?"
 			(at 273.05 148.5962 0)
 			(effects
 				(font
@@ -8997,6 +9213,14 @@
 		(pin "2"
 			(uuid "37c76e45-da77-4f11-a57c-0ed7a6f07a8a")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -9007,7 +9231,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f89abfe-3f8d-4888-9efb-d03c674d9c7a")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR?"
 			(at 270.51 160.02 0)
 			(effects
 				(font
@@ -9054,6 +9278,14 @@
 		(pin "1"
 			(uuid "aec54e92-e430-4fb3-aceb-a17129a97a28")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -9064,7 +9296,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "610ba91f-ca4f-4e46-b9cf-4c0f7975745d")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR?"
 			(at 233.68 92.71 0)
 			(effects
 				(font
@@ -9111,6 +9343,14 @@
 		(pin "1"
 			(uuid "1af60dfe-8551-46fe-8a0f-03dd067bc4c6")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -9122,7 +9362,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66600c68-e190-4708-b833-e6a4d2d4f31c")
-		(property "Reference" "C12"
+		(property "Reference" "C?"
 			(at 270.51 105.4162 0)
 			(effects
 				(font
@@ -9193,6 +9433,14 @@
 		(pin "2"
 			(uuid "a8eb0256-fdce-473c-a68b-f3a3079b975f")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
@@ -9204,7 +9452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6997c145-3f07-4372-9a04-b3f26c8a65d5")
-		(property "Reference" "FB1"
+		(property "Reference" "FB?"
 			(at 286.9692 135.89 90)
 			(effects
 				(font
@@ -9271,6 +9519,14 @@
 		(pin "2"
 			(uuid "f917de10-0e22-43cc-b6c6-7e6e80c5ee12")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "FB?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -9282,7 +9538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a3fd74c-6639-4bc4-bb55-6eaa09b75683")
-		(property "Reference" "C15"
+		(property "Reference" "C?"
 			(at 297.18 148.5962 0)
 			(effects
 				(font
@@ -9353,6 +9609,14 @@
 		(pin "2"
 			(uuid "1af1475d-5d0a-4cd8-b70f-3611191a43d2")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -9363,7 +9627,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6a6c7c9c-6b3d-444c-bdd1-9ccc7d1ff1ea")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR?"
 			(at 255.27 160.02 0)
 			(effects
 				(font
@@ -9410,6 +9674,14 @@
 		(pin "1"
 			(uuid "8bced67f-4927-48e9-bd06-284eb64b6200")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -9420,7 +9692,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "724269cd-9db2-42fe-a67c-d26e96c45d16")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR?"
 			(at 233.68 81.28 0)
 			(effects
 				(font
@@ -9469,6 +9741,14 @@
 		(pin "1"
 			(uuid "c9848432-aa39-4310-a947-6a663d0f0995")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -9479,7 +9759,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "73dbabf3-310c-468a-84e4-8cc4f1b24326")
-		(property "Reference" "R3"
+		(property "Reference" "R?"
 			(at 234.95 185.928 90)
 			(effects
 				(font
@@ -9546,6 +9826,14 @@
 		(pin "1"
 			(uuid "b413d03c-a9ab-4bcd-b508-f04b88dc92e0")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -9556,7 +9844,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "743d0fd9-c329-431b-8f21-e9c291d6612e")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR?"
 			(at 375.92 100.33 0)
 			(effects
 				(font
@@ -9603,6 +9891,14 @@
 		(pin "1"
 			(uuid "a88d7cf2-470e-4adb-821f-cd7c843093f1")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -9613,7 +9909,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b7088ac-7bee-4faa-aab3-a6ef9d391a10")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR?"
 			(at 267.97 92.71 0)
 			(effects
 				(font
@@ -9660,6 +9956,14 @@
 		(pin "1"
 			(uuid "d4e55979-5510-4325-9bb0-ec66c84068eb")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -9670,7 +9974,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c0fb8ed-47a9-4fa3-858d-dadff65a2644")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR?"
 			(at 237.49 116.84 0)
 			(effects
 				(font
@@ -9717,6 +10021,14 @@
 		(pin "1"
 			(uuid "c8e9de84-7e19-4168-8697-3bc045aa591a")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -9728,7 +10040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d667300-48ad-4b77-8f86-9e4d211bab2e")
-		(property "Reference" "C9"
+		(property "Reference" "C?"
 			(at 250.19 105.4162 0)
 			(effects
 				(font
@@ -9799,6 +10111,14 @@
 		(pin "2"
 			(uuid "22cbae79-cbd2-45a3-9423-65ad46f2a81f")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -9810,7 +10130,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7e536657-7de1-4798-9832-36ab00da1c6b")
-		(property "Reference" "R9"
+		(property "Reference" "R?"
 			(at 167.64 111.7599 0)
 			(effects
 				(font
@@ -9881,6 +10201,14 @@
 		(pin "1"
 			(uuid "fdfa1573-d388-4d0e-a3ab-0a3340908b90")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -9891,7 +10219,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ed4b8b2-2cd5-4ee9-841e-5f4a9d071390")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR?"
 			(at 355.6 157.48 0)
 			(effects
 				(font
@@ -9938,6 +10266,14 @@
 		(pin "1"
 			(uuid "4f54508d-cd8c-4709-94e9-2f1d6ffb3538")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -9948,7 +10284,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7f8aff0b-bf1d-4d01-a37b-28808edcc56e")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR?"
 			(at 170.18 130.81 0)
 			(effects
 				(font
@@ -9995,6 +10331,14 @@
 		(pin "1"
 			(uuid "879c6438-40c7-4691-9b9f-b03811dc1d17")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -10005,7 +10349,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8304191d-27f6-4188-9d41-ac7baf86db0d")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR?"
 			(at 257.81 92.71 0)
 			(effects
 				(font
@@ -10052,6 +10396,14 @@
 		(pin "1"
 			(uuid "d116ec7f-1455-4fc9-af95-38bfc7fbf4cd")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -10062,7 +10414,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8432ccd6-9e74-491c-ac5f-f8de3309be19")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR?"
 			(at 115.57 200.66 0)
 			(effects
 				(font
@@ -10109,6 +10461,14 @@
 		(pin "1"
 			(uuid "59a1e002-ebf0-405f-b020-804d42b5b218")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -10120,7 +10480,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8438f6c2-962f-4fb2-bf10-acc845d59ab7")
-		(property "Reference" "R10"
+		(property "Reference" "R?"
 			(at 253.492 150.876 90)
 			(effects
 				(font
@@ -10191,6 +10551,14 @@
 		(pin "1"
 			(uuid "ce8421a7-a7c8-435a-8154-44ba131d1bf4")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -10202,7 +10570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87b8c455-79bc-49da-a5c3-43bd9326dbf6")
-		(property "Reference" "C14"
+		(property "Reference" "C?"
 			(at 281.94 166.3762 0)
 			(effects
 				(font
@@ -10273,6 +10641,14 @@
 		(pin "2"
 			(uuid "131f6cce-d757-4f41-84ea-0857c0a1b62d")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "CBSymLib:HSP051-4M10")
@@ -10283,7 +10659,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "87eedb6d-cbf8-4907-a17d-2f7b51d220c9")
-		(property "Reference" "U6"
+		(property "Reference" "U?"
 			(at 99.06 157.226 0)
 			(effects
 				(font
@@ -10379,6 +10755,14 @@
 		(pin "4"
 			(uuid "6b27532a-62db-44ac-9140-06a882dd1c7d")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "U?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -10390,7 +10774,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "8915d540-b5be-414b-9aa2-86f7a3368fd3")
-		(property "Reference" "R21"
+		(property "Reference" "R?"
 			(at 350.52 88.8999 0)
 			(effects
 				(font
@@ -10461,6 +10845,14 @@
 		(pin "1"
 			(uuid "853c15fe-3dea-465e-8e13-3ecabb9e1773")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "CBSymLib:HSP051-4M10")
@@ -10471,7 +10863,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a3ac328-42d4-453b-b21d-f95419d3a8d4")
-		(property "Reference" "U3"
+		(property "Reference" "U?"
 			(at 99.06 116.586 0)
 			(effects
 				(font
@@ -10567,6 +10959,14 @@
 		(pin "4"
 			(uuid "c382c392-f637-44ca-83c5-a4b7a00152d5")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "U?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -10577,7 +10977,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f13097e-4209-485b-9629-ff8ae5f1fefa")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR?"
 			(at 261.62 160.02 0)
 			(effects
 				(font
@@ -10624,6 +11024,14 @@
 		(pin "1"
 			(uuid "528950b9-a36b-4bcc-94f5-5978df4aa648")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -10634,7 +11042,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "92e37dba-f1df-48f4-9ae9-e5d610ca4c03")
-		(property "Reference" "R5"
+		(property "Reference" "R?"
 			(at 234.95 191.008 90)
 			(effects
 				(font
@@ -10701,6 +11109,14 @@
 		(pin "1"
 			(uuid "9947ac8c-1001-40e2-a140-2d1013244255")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -10711,7 +11127,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9486c1cd-f047-430c-b2db-7db15dde82b9")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR?"
 			(at 234.95 209.55 0)
 			(effects
 				(font
@@ -10758,6 +11174,14 @@
 		(pin "1"
 			(uuid "7288c036-cdc8-4602-8be3-4443eb14ed1e")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -10768,7 +11192,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "95753282-e72e-489b-9dfd-958de70a257a")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR?"
 			(at 63.5 133.35 0)
 			(effects
 				(font
@@ -10815,6 +11239,14 @@
 		(pin "1"
 			(uuid "a8137c6d-f910-4cf3-baa8-3a20693d09e0")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -10825,7 +11257,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "960300ec-658b-44c2-9260-f7ae2728c2f7")
-		(property "Reference" "R2"
+		(property "Reference" "R?"
 			(at 234.95 183.388 90)
 			(effects
 				(font
@@ -10892,6 +11324,14 @@
 		(pin "1"
 			(uuid "d784e68a-588a-40c5-886b-d4fe4a8e9c94")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -10903,7 +11343,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "971762be-eed5-47d8-aa80-9e41476b017d")
-		(property "Reference" "R11"
+		(property "Reference" "R?"
 			(at 349.25 189.2299 0)
 			(effects
 				(font
@@ -10974,6 +11414,14 @@
 		(pin "1"
 			(uuid "a20f92a3-dcdb-4370-938f-28e5b740fb01")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -10985,7 +11433,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a6a97de-b59a-46f6-a5fc-755bac8ea116")
-		(property "Reference" "C22"
+		(property "Reference" "C?"
 			(at 270.51 81.2862 0)
 			(effects
 				(font
@@ -11056,6 +11504,14 @@
 		(pin "2"
 			(uuid "cfcda088-7222-4462-aa02-fdb159889200")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -11066,7 +11522,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a15a7f63-b89f-4321-a2ef-44e315eeab99")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR?"
 			(at 318.77 160.02 0)
 			(effects
 				(font
@@ -11113,6 +11569,14 @@
 		(pin "1"
 			(uuid "f7243490-31f8-4451-9988-509c747d7e88")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -11123,7 +11587,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a44048a8-9910-4fbc-817c-37791f077bca")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR?"
 			(at 294.64 160.02 0)
 			(effects
 				(font
@@ -11170,6 +11634,14 @@
 		(pin "1"
 			(uuid "355654fd-685a-4751-a3ce-e60dd044fc79")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -11180,7 +11652,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5d84df1-3371-4737-8661-75aa2e765f22")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR?"
 			(at 279.4 177.8 0)
 			(effects
 				(font
@@ -11227,6 +11699,14 @@
 		(pin "1"
 			(uuid "f072170d-3752-45cb-9bd6-02d1698c54aa")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
@@ -11238,7 +11718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5e57c07-3921-4d42-b07c-1c534dee54db")
-		(property "Reference" "FB3"
+		(property "Reference" "FB?"
 			(at 247.5992 71.12 90)
 			(effects
 				(font
@@ -11305,6 +11785,14 @@
 		(pin "2"
 			(uuid "a4908351-71b3-40f3-807c-ceb6c5f0516c")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "FB?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -11315,7 +11803,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a74a6648-a7d0-462e-9faf-1e87c0f1c17e")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR?"
 			(at 292.1 105.41 0)
 			(effects
 				(font
@@ -11364,6 +11852,14 @@
 		(pin "1"
 			(uuid "ad31d8eb-fa1e-4d1f-ada4-ff2b68d5058a")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -11375,7 +11871,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a84d272c-abb7-43b3-8b85-344ca05ad7d2")
-		(property "Reference" "C25"
+		(property "Reference" "C?"
 			(at 27.94 172.7262 0)
 			(effects
 				(font
@@ -11446,6 +11942,14 @@
 		(pin "2"
 			(uuid "63b2a309-6ed9-4a90-bbfa-bc14834ca6d2")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -11457,7 +11961,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa31d58d-3b2b-49ba-8330-feef3c4ceb26")
-		(property "Reference" "C17"
+		(property "Reference" "C?"
 			(at 264.16 148.5962 0)
 			(effects
 				(font
@@ -11528,6 +12032,14 @@
 		(pin "2"
 			(uuid "04429cb6-f5e2-4224-9e3d-5804086dab9c")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -11539,7 +12051,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af674423-c5a1-4d31-b285-dd0e5c6196d7")
-		(property "Reference" "R19"
+		(property "Reference" "R?"
 			(at 350.52 74.9299 0)
 			(effects
 				(font
@@ -11610,6 +12122,14 @@
 		(pin "1"
 			(uuid "930766e7-1f81-494a-b0e9-828e2937b5b7")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -11621,7 +12141,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "b0a9a2f2-4703-463e-bb08-ee207eb735b3")
-		(property "Reference" "R17"
+		(property "Reference" "R?"
 			(at 369.57 189.2299 0)
 			(effects
 				(font
@@ -11692,6 +12212,14 @@
 		(pin "1"
 			(uuid "1ffc9200-2a26-4fb4-b8a5-02dc39198d77")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -11703,7 +12231,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5f215d0-c491-47c7-af32-0e4da8d99969")
-		(property "Reference" "C26"
+		(property "Reference" "C?"
 			(at 39.37 172.7262 0)
 			(effects
 				(font
@@ -11774,6 +12302,14 @@
 		(pin "2"
 			(uuid "6b70c404-9cbd-4f69-8154-65995202c739")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -11784,7 +12320,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b988caa6-193f-497a-86a5-5ece0c7e648c")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR?"
 			(at 353.06 73.66 0)
 			(effects
 				(font
@@ -11833,6 +12369,14 @@
 		(pin "1"
 			(uuid "feef6217-650a-47fc-bd9e-ef2426f8fd33")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -11844,7 +12388,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "bdeda4cc-217f-48cc-8066-c63edfff8ddd")
-		(property "Reference" "R22"
+		(property "Reference" "R?"
 			(at 361.95 88.8999 0)
 			(effects
 				(font
@@ -11915,6 +12459,14 @@
 		(pin "1"
 			(uuid "1a9892ae-4b73-4c8d-83d3-749c6db32db3")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -11925,7 +12477,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf90f6f5-ecd0-436d-9f3a-ac0185008688")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR?"
 			(at 351.79 213.36 0)
 			(effects
 				(font
@@ -11972,6 +12524,14 @@
 		(pin "1"
 			(uuid "92b4774e-2914-4e01-a6d5-f951f2da6e09")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "CBSymLib:2250506-1")
@@ -11984,7 +12544,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf913cd3-f75f-49fc-b75a-c807556e6fe7")
-		(property "Reference" "J1"
+		(property "Reference" "J?"
 			(at 31.75 64.77 0)
 			(effects
 				(font
@@ -12116,6 +12676,14 @@
 		(pin "S1"
 			(uuid "b81989b8-6343-40fb-8ca7-aa5069b9f2a7")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "J?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -12127,7 +12695,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c0918214-0b5d-4eee-8e41-ae7dc0b7a38a")
-		(property "Reference" "R20"
+		(property "Reference" "R?"
 			(at 361.95 74.9299 0)
 			(effects
 				(font
@@ -12198,6 +12766,14 @@
 		(pin "1"
 			(uuid "de6d230d-5530-4ee9-9032-b435a7893809")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -12208,7 +12784,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c130c5cf-4f61-4d52-b436-43c43d3c9a53")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR?"
 			(at 365.76 157.48 0)
 			(effects
 				(font
@@ -12255,6 +12831,14 @@
 		(pin "1"
 			(uuid "fcb2bd26-0400-4afc-81ec-64e8ba642b23")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -12265,7 +12849,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c1e5c6e7-f561-40dd-b84a-a785214243e6")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR?"
 			(at 372.11 213.36 0)
 			(effects
 				(font
@@ -12312,6 +12896,14 @@
 		(pin "1"
 			(uuid "1daed99f-f6cd-4542-92e4-88c331c34793")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -12322,7 +12914,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c57fa4af-d2e5-4c52-88f5-b46d9e3b05b4")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR?"
 			(at 143.51 123.19 0)
 			(effects
 				(font
@@ -12371,6 +12963,14 @@
 		(pin "1"
 			(uuid "b41e05d7-2539-4d55-9c40-5e06cc83792f")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -12381,7 +12981,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c65edc29-a64d-43c7-9b7f-4063aeb035cb")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR?"
 			(at 364.49 100.33 0)
 			(effects
 				(font
@@ -12428,6 +13028,14 @@
 		(pin "1"
 			(uuid "7dd5cab5-90fb-48c1-bebd-bfc22b7f3df2")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -12438,7 +13046,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ccf6eaa7-4fe7-4da4-ac5d-8bc9bd19ed7f")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR?"
 			(at 361.95 213.36 0)
 			(effects
 				(font
@@ -12485,6 +13093,14 @@
 		(pin "1"
 			(uuid "7f16281c-5835-4a58-8c11-bbff643c07cf")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -12495,7 +13111,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cd5ebac0-4854-4155-aeb1-9eb53cc45f8f")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR?"
 			(at 355.6 134.62 0)
 			(effects
 				(font
@@ -12544,6 +13160,14 @@
 		(pin "1"
 			(uuid "c5ad9e0c-f5f7-407b-bcfc-7831f2fd9534")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -12554,7 +13178,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d77654ec-bc9e-4feb-ba95-b57a4ef4ee88")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR?"
 			(at 267.97 116.84 0)
 			(effects
 				(font
@@ -12601,6 +13225,14 @@
 		(pin "1"
 			(uuid "bb3b5701-6059-4c70-96fa-6ff403760fc8")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -12611,7 +13243,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d876d770-df1c-46ad-99d3-41ed95f84c15")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR?"
 			(at 233.68 105.41 0)
 			(effects
 				(font
@@ -12660,6 +13292,14 @@
 		(pin "1"
 			(uuid "371775e5-893a-438a-9bec-8f5764adda49")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -12671,7 +13311,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "d99ce683-79ec-4167-af6c-cd5e5df6b2a4")
-		(property "Reference" "R14"
+		(property "Reference" "R?"
 			(at 349.25 201.9299 0)
 			(effects
 				(font
@@ -12742,6 +13382,14 @@
 		(pin "1"
 			(uuid "6426384f-31e4-449d-b619-1613e53dc4dc")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -12752,7 +13400,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da51f9c6-97bd-4c1f-9f47-90a20cce6ce3")
-		(property "Reference" "R26"
+		(property "Reference" "R?"
 			(at 358.14 146.0499 0)
 			(effects
 				(font
@@ -12823,6 +13471,14 @@
 		(pin "1"
 			(uuid "0e27b986-9d99-495e-86ed-4922b1118687")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -12833,7 +13489,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0241c36-0344-4f79-bd32-314af218d3d0")
-		(property "Reference" "R28"
+		(property "Reference" "R?"
 			(at 46.99 135.128 90)
 			(effects
 				(font
@@ -12900,6 +13556,14 @@
 		(pin "1"
 			(uuid "516c8dd0-d92c-4717-9bfa-459595fc321e")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -12910,7 +13574,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e038fd0c-bfe3-4870-a5e1-4f1ff2e72fea")
-		(property "Reference" "R7"
+		(property "Reference" "R?"
 			(at 234.95 196.088 90)
 			(effects
 				(font
@@ -12977,6 +13641,14 @@
 		(pin "1"
 			(uuid "4199ac43-4d9d-4c40-b68d-e69a48aa17ef")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -12987,7 +13659,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e081e2be-85c4-4ac1-a4ff-1a556ebd98b5")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR?"
 			(at 115.57 160.02 0)
 			(effects
 				(font
@@ -13034,6 +13706,14 @@
 		(pin "1"
 			(uuid "5dc5f5a3-bcc4-4d36-9cf7-763f992bcf90")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "CBSymLib:RTL8211F-CG")
@@ -13045,7 +13725,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e67bc6bd-f291-41fa-850b-19eaad24f241")
-		(property "Reference" "U1"
+		(property "Reference" "U?"
 			(at 201.93 109.982 0)
 			(effects
 				(font
@@ -13234,6 +13914,14 @@
 		(pin "25"
 			(uuid "e997c979-d318-407f-a6f2-7bfbfae9739d")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "U?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
@@ -13245,7 +13933,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e862d1c2-6354-475d-bfe4-976521b93dee")
-		(property "Reference" "R16"
+		(property "Reference" "R?"
 			(at 359.41 201.9299 0)
 			(effects
 				(font
@@ -13316,6 +14004,14 @@
 		(pin "1"
 			(uuid "35ac87c6-37a7-49e1-9818-c9275371ebe4")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -13326,7 +14022,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb37c557-dde9-4db1-a229-ca3e53150a33")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR?"
 			(at 247.65 116.84 0)
 			(effects
 				(font
@@ -13373,6 +14069,14 @@
 		(pin "1"
 			(uuid "3156b9f5-b8ca-4b9a-9759-e29dff78503f")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -13384,7 +14088,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed8fc381-6588-4e58-9825-637c03452cec")
-		(property "Reference" "C19"
+		(property "Reference" "C?"
 			(at 309.88 148.5962 0)
 			(effects
 				(font
@@ -13455,6 +14159,14 @@
 		(pin "2"
 			(uuid "217d5f92-5c4c-4c6c-bb71-a88a45d3dc32")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:L")
@@ -13466,7 +14178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f19243b0-2ca4-4c12-9d2f-9316d25e138e")
-		(property "Reference" "L2"
+		(property "Reference" "L?"
 			(at 245.11 138.43 90)
 			(effects
 				(font
@@ -13533,6 +14245,14 @@
 		(pin "1"
 			(uuid "676c07f7-cfb6-4e51-8cf6-c907071dea26")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "L?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -13543,7 +14263,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fa01554d-3960-45e7-aed9-2ca0aca105a4")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR?"
 			(at 45.72 165.1 0)
 			(effects
 				(font
@@ -13590,6 +14310,14 @@
 		(pin "1"
 			(uuid "c37f8915-4283-46c5-9976-041cf509e0b8")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -13600,7 +14328,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ff317c38-bdd5-488f-bf15-9adbdaff55e5")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR?"
 			(at 30.48 186.69 0)
 			(effects
 				(font
@@ -13647,6 +14375,14 @@
 		(pin "1"
 			(uuid "e2443567-f720-48e1-8788-6fe0b32dfbb6")
 		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
@@ -13658,7 +14394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff77ae38-a440-42b9-a576-0a3716d9a1c4")
-		(property "Reference" "FB2"
+		(property "Reference" "FB?"
 			(at 257.7592 95.25 90)
 			(effects
 				(font
@@ -13724,6 +14460,14 @@
 		)
 		(pin "2"
 			(uuid "fbad7fe2-534d-4db4-b508-0bdfb8ccd178")
+		)
+		(instances
+			(project "NanoCompute"
+				(path "/3a0a6fc3-d957-4804-b3c3-6d269c038b1f/a102bb9d-4118-4847-941e-ad5a4f1e23d6"
+					(reference "FB?")
+					(unit 1)
+				)
+			)
 		)
 	)
 )

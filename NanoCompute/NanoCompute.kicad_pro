@@ -748,6 +748,10 @@
     [
       "61430c16-e72c-45ec-aff1-4e70bfe3da7d",
       "HDMI"
+    ],
+    [
+      "32c3c7d7-40f6-42b4-b315-7f2d0b1eee7c",
+      "eMMC"
     ]
   ],
   "text_variables": {}
