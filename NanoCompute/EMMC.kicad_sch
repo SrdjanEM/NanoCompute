@@ -26469,16 +26469,16 @@
 		(uuid "9af5592b-bb1e-41f4-911e-7d8b3415a5c3")
 	)
 	(junction
+		(at 205.74 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a246d551-a2df-4a65-8dcd-167ade022d05")
+	)
+	(junction
 		(at 231.14 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad79fc22-1e97-4f6e-82ff-b658dfb3bf52")
-	)
-	(junction
-		(at 189.23 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b1c9d8d3-ccfe-4408-842e-f80eb517acd9")
 	)
 	(junction
 		(at 257.81 146.05)
@@ -26630,7 +26630,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 151.13) (xy 266.7 151.13)
+			(xy 191.77 151.13) (xy 266.7 151.13)
 		)
 		(stroke
 			(width 0)
@@ -26640,7 +26640,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 111.76) (xy 231.14 110.49)
+			(xy 231.14 115.57) (xy 231.14 110.49)
 		)
 		(stroke
 			(width 0)
@@ -26650,7 +26650,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 156.21) (xy 189.23 156.21)
+			(xy 191.77 156.21) (xy 205.74 156.21)
 		)
 		(stroke
 			(width 0)
@@ -26680,7 +26680,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 156.21) (xy 189.23 161.29)
+			(xy 205.74 156.21) (xy 205.74 161.29)
 		)
 		(stroke
 			(width 0)
@@ -26740,7 +26740,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 116.84) (xy 257.81 146.05)
+			(xy 257.81 120.65) (xy 257.81 146.05)
 		)
 		(stroke
 			(width 0)
@@ -26750,7 +26750,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 116.84) (xy 222.25 135.89)
+			(xy 222.25 120.65) (xy 222.25 135.89)
 		)
 		(stroke
 			(width 0)
@@ -26770,7 +26770,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 133.35) (xy 179.07 133.35)
+			(xy 175.26 133.35) (xy 186.69 133.35)
 		)
 		(stroke
 			(width 0)
@@ -26810,7 +26810,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 153.67) (xy 179.07 153.67)
+			(xy 175.26 153.67) (xy 186.69 153.67)
 		)
 		(stroke
 			(width 0)
@@ -26830,7 +26830,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 111.76) (xy 248.92 110.49)
+			(xy 248.92 115.57) (xy 248.92 110.49)
 		)
 		(stroke
 			(width 0)
@@ -26850,7 +26850,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 111.76) (xy 204.47 110.49)
+			(xy 204.47 115.57) (xy 204.47 110.49)
 		)
 		(stroke
 			(width 0)
@@ -26870,7 +26870,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 111.76) (xy 257.81 110.49)
+			(xy 257.81 115.57) (xy 257.81 110.49)
 		)
 		(stroke
 			(width 0)
@@ -26880,7 +26880,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 116.84) (xy 248.92 143.51)
+			(xy 248.92 120.65) (xy 248.92 143.51)
 		)
 		(stroke
 			(width 0)
@@ -26970,7 +26970,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 146.05) (xy 179.07 146.05)
+			(xy 175.26 146.05) (xy 186.69 146.05)
 		)
 		(stroke
 			(width 0)
@@ -27000,7 +27000,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 111.76) (xy 222.25 110.49)
+			(xy 222.25 115.57) (xy 222.25 110.49)
 		)
 		(stroke
 			(width 0)
@@ -27010,7 +27010,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 116.84) (xy 204.47 130.81)
+			(xy 204.47 120.65) (xy 204.47 130.81)
 		)
 		(stroke
 			(width 0)
@@ -27040,7 +27040,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 116.84) (xy 240.03 140.97)
+			(xy 240.03 120.65) (xy 240.03 140.97)
 		)
 		(stroke
 			(width 0)
@@ -27050,7 +27050,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 130.81) (xy 204.47 130.81)
+			(xy 191.77 130.81) (xy 204.47 130.81)
 		)
 		(stroke
 			(width 0)
@@ -27080,7 +27080,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 128.27) (xy 195.58 128.27)
+			(xy 191.77 128.27) (xy 195.58 128.27)
 		)
 		(stroke
 			(width 0)
@@ -27110,7 +27110,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 133.35) (xy 213.36 133.35)
+			(xy 191.77 133.35) (xy 213.36 133.35)
 		)
 		(stroke
 			(width 0)
@@ -27150,7 +27150,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 116.84) (xy 231.14 138.43)
+			(xy 231.14 120.65) (xy 231.14 138.43)
 		)
 		(stroke
 			(width 0)
@@ -27160,7 +27160,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 111.76) (xy 213.36 110.49)
+			(xy 213.36 115.57) (xy 213.36 110.49)
 		)
 		(stroke
 			(width 0)
@@ -27170,7 +27170,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 125.73) (xy 127 125.73)
+			(xy 116.84 125.73) (xy 127 125.73)
 		)
 		(stroke
 			(width 0)
@@ -27180,7 +27180,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 151.13) (xy 179.07 151.13)
+			(xy 175.26 151.13) (xy 186.69 151.13)
 		)
 		(stroke
 			(width 0)
@@ -27190,7 +27190,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 128.27) (xy 120.65 125.73)
+			(xy 116.84 128.27) (xy 116.84 125.73)
 		)
 		(stroke
 			(width 0)
@@ -27210,7 +27210,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 111.76) (xy 266.7 110.49)
+			(xy 266.7 115.57) (xy 266.7 110.49)
 		)
 		(stroke
 			(width 0)
@@ -27230,7 +27230,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 133.35) (xy 120.65 135.89)
+			(xy 116.84 133.35) (xy 116.84 135.89)
 		)
 		(stroke
 			(width 0)
@@ -27250,7 +27250,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 140.97) (xy 179.07 140.97)
+			(xy 175.26 140.97) (xy 186.69 140.97)
 		)
 		(stroke
 			(width 0)
@@ -27260,7 +27260,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 135.89) (xy 179.07 135.89)
+			(xy 175.26 135.89) (xy 186.69 135.89)
 		)
 		(stroke
 			(width 0)
@@ -27280,7 +27280,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 138.43) (xy 179.07 138.43)
+			(xy 175.26 138.43) (xy 186.69 138.43)
 		)
 		(stroke
 			(width 0)
@@ -27310,7 +27310,17 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 128.27) (xy 179.07 128.27)
+			(xy 205.74 156.21) (xy 283.21 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "718cefa8-badf-4908-adad-ed44bd85b8e5")
+	)
+	(wire
+		(pts
+			(xy 175.26 128.27) (xy 186.69 128.27)
 		)
 		(stroke
 			(width 0)
@@ -27350,7 +27360,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 166.37) (xy 189.23 168.91)
+			(xy 205.74 166.37) (xy 205.74 168.91)
 		)
 		(stroke
 			(width 0)
@@ -27370,7 +27380,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 116.84) (xy 266.7 151.13)
+			(xy 266.7 120.65) (xy 266.7 151.13)
 		)
 		(stroke
 			(width 0)
@@ -27400,7 +27410,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 143.51) (xy 248.92 143.51)
+			(xy 191.77 143.51) (xy 248.92 143.51)
 		)
 		(stroke
 			(width 0)
@@ -27427,16 +27437,6 @@
 			(type default)
 		)
 		(uuid "87916db8-145c-49e1-8f25-a1487ee53f06")
-	)
-	(wire
-		(pts
-			(xy 189.23 156.21) (xy 283.21 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a015495-25ac-4488-af6a-74e2ba228131")
 	)
 	(wire
 		(pts
@@ -27490,7 +27490,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 156.21) (xy 179.07 156.21)
+			(xy 175.26 156.21) (xy 186.69 156.21)
 		)
 		(stroke
 			(width 0)
@@ -27520,7 +27520,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 146.05) (xy 257.81 146.05)
+			(xy 191.77 146.05) (xy 257.81 146.05)
 		)
 		(stroke
 			(width 0)
@@ -27530,7 +27530,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 140.97) (xy 240.03 140.97)
+			(xy 191.77 140.97) (xy 240.03 140.97)
 		)
 		(stroke
 			(width 0)
@@ -27540,7 +27540,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 116.84) (xy 213.36 133.35)
+			(xy 213.36 120.65) (xy 213.36 133.35)
 		)
 		(stroke
 			(width 0)
@@ -27580,7 +27580,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 130.81) (xy 179.07 130.81)
+			(xy 175.26 130.81) (xy 186.69 130.81)
 		)
 		(stroke
 			(width 0)
@@ -27600,7 +27600,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 110.49) (xy 195.58 111.76)
+			(xy 195.58 110.49) (xy 195.58 115.57)
 		)
 		(stroke
 			(width 0)
@@ -27610,7 +27610,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 116.84) (xy 195.58 128.27)
+			(xy 195.58 120.65) (xy 195.58 128.27)
 		)
 		(stroke
 			(width 0)
@@ -27630,7 +27630,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 111.76) (xy 240.03 110.49)
+			(xy 240.03 115.57) (xy 240.03 110.49)
 		)
 		(stroke
 			(width 0)
@@ -27710,7 +27710,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 135.89) (xy 222.25 135.89)
+			(xy 191.77 135.89) (xy 222.25 135.89)
 		)
 		(stroke
 			(width 0)
@@ -27720,7 +27720,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 143.51) (xy 179.07 143.51)
+			(xy 175.26 143.51) (xy 186.69 143.51)
 		)
 		(stroke
 			(width 0)
@@ -27800,7 +27800,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 153.67) (xy 283.21 153.67)
+			(xy 191.77 153.67) (xy 283.21 153.67)
 		)
 		(stroke
 			(width 0)
@@ -27830,7 +27830,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 138.43) (xy 231.14 138.43)
+			(xy 191.77 138.43) (xy 231.14 138.43)
 		)
 		(stroke
 			(width 0)
@@ -27973,96 +27973,273 @@
 		(uuid "9f65c647-14fb-42d0-9c6b-ae9a899ea1f7")
 	)
 	(label "EMMC_D4"
-		(at 279.4 138.43 180)
+		(at 271.78 138.43 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "0c27520f-a4f4-4a69-96e8-9923329777b4")
 	)
+	(label "D4"
+		(at 175.26 138.43 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "28017cf4-6e32-4455-a429-327cd34a9933")
+	)
+	(label "D0"
+		(at 175.26 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "2cbb6998-3779-4f11-9de4-6d2eadecf183")
+	)
+	(label "D3"
+		(at 175.26 135.89 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "3614b785-4a34-48ce-a27c-dc3bad05e1b2")
+	)
+	(label "D5"
+		(at 175.26 140.97 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "41dbe626-d430-4354-bf06-af3e24d9ee0e")
+	)
+	(label "D1"
+		(at 175.26 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "51b98b37-85f4-49e6-9e73-ebd401861db1")
+	)
+	(label "EMMC_{RST}"
+		(at 271.78 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "555db94a-a687-46b9-af81-7ab16d6d28fb")
+	)
 	(label "EMMC_D1"
-		(at 279.4 130.81 180)
+		(at 271.78 130.81 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "679021a1-c94c-4906-9f6d-049de684bbfc")
 	)
-	(label "EMMC_D2"
-		(at 279.4 133.35 180)
+	(label "D2"
+		(at 175.26 133.35 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "682cb81b-de35-41e5-9c82-7013e3f8c97a")
+	)
+	(label "EMMC_DS"
+		(at 271.78 156.21 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify right bottom)
+			(justify left bottom)
+		)
+		(uuid "6fd6734e-7cb6-47f1-aeec-9fb844e336ea")
+	)
+	(label "EMMC_D7"
+		(at 271.78 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "7b490438-a914-494c-bf7c-e922905da79b")
+	)
+	(label "CMD"
+		(at 175.26 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "84fb776a-c0db-474c-895d-7f9b0df6db6e")
+	)
+	(label "EMMC_D2"
+		(at 271.78 133.35 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
 		)
 		(uuid "86542a73-bb74-4d94-ae66-fb3ad34de6e4")
 	)
-	(label "EMMC_D7"
-		(at 279.4 146.05 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "94dd2f55-8e50-4fa2-8d56-1000af11dd79")
-	)
 	(label "EMMC_D5"
-		(at 279.4 140.97 180)
+		(at 271.78 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "9cb7200a-2b23-4a6e-9d0f-4fa1a4fa2a5c")
 	)
-	(label "EMMC_D3"
-		(at 279.4 135.89 180)
+	(label "CLK"
+		(at 175.26 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "a1cb1cc7-82f1-479c-9677-11023271d04a")
+	)
+	(label "DS"
+		(at 175.26 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "b6f6b685-0f94-4f7f-9647-b0ad6d169d04")
+	)
+	(label "EMMC_CMD"
+		(at 271.78 153.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify right bottom)
+			(justify left bottom)
+		)
+		(uuid "b739a50b-2256-4624-974c-f68d84728900")
+	)
+	(label "D6"
+		(at 175.26 143.51 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "c1ca82b3-d9b7-4a52-b3d8-56b1f7ae1389")
+	)
+	(label "EMMC_D3"
+		(at 271.78 135.89 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
 		)
 		(uuid "c3dce33c-86a2-4188-be32-022f9302d91e")
 	)
 	(label "EMMC_D6"
-		(at 279.4 143.51 180)
+		(at 271.78 143.51 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "d2eaa85d-fc53-41eb-82b3-13ba68bbf7f0")
 	)
-	(label "EMMC_D0"
-		(at 279.4 128.27 180)
+	(label "EMMC_CLK"
+		(at 271.78 151.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify right bottom)
+			(justify left bottom)
+		)
+		(uuid "dd140811-b82e-42db-b9be-2bee034e36bd")
+	)
+	(label "D7"
+		(at 175.26 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+		(uuid "dfae0f4f-445a-4ba2-8771-58db14f2559c")
+	)
+	(label "EMMC_D0"
+		(at 271.78 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
 		)
 		(uuid "f77f9ed0-3be6-4c48-8a97-f52273cb2cdf")
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 135.89 90)
+		(at 189.23 135.89 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28071,7 +28248,7 @@
 		(dnp no)
 		(uuid "00fc2d16-070d-4abe-9ca5-b2d36cefaad9")
 		(property "Reference" "R18"
-			(at 179.578 135.128 90)
+			(at 187.198 135.128 90)
 			(effects
 				(font
 					(size 1 1)
@@ -28080,7 +28257,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 135.128 90)
+			(at 194.056 135.128 90)
 			(effects
 				(font
 					(size 1 1)
@@ -28091,7 +28268,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 135.89 0)
+			(at 189.23 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28100,7 +28277,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 135.89 0)
+			(at 189.23 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28109,7 +28286,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 135.89 0)
+			(at 189.23 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28118,7 +28295,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 135.89 0)
+			(at 189.23 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28127,7 +28304,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 135.89 0)
+			(at 189.23 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28217,7 +28394,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 213.36 114.3 0)
+		(at 213.36 118.11 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28226,7 +28403,7 @@
 		(dnp no)
 		(uuid "152e30ff-1cb0-49a4-a438-8dfa6e82ea5f")
 		(property "Reference" "R5"
-			(at 210.82 113.0299 0)
+			(at 210.82 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28235,7 +28412,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 210.82 115.5699 0)
+			(at 210.82 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28246,7 +28423,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 213.36 114.3 0)
+			(at 213.36 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28255,7 +28432,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 213.36 114.3 0)
+			(at 213.36 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28264,7 +28441,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 213.36 114.3 0)
+			(at 213.36 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28273,7 +28450,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 213.36 114.3 0)
+			(at 213.36 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28282,7 +28459,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 213.36 114.3 0)
+			(at 213.36 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28847,7 +29024,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 151.13 90)
+		(at 189.23 151.13 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28856,7 +29033,7 @@
 		(dnp no)
 		(uuid "29c83593-38aa-4009-aec9-3c6316fca955")
 		(property "Reference" "R23"
-			(at 179.578 150.368 90)
+			(at 187.198 150.368 90)
 			(effects
 				(font
 					(size 1 1)
@@ -28865,7 +29042,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 150.368 90)
+			(at 194.056 150.368 90)
 			(effects
 				(font
 					(size 1 1)
@@ -28876,7 +29053,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 151.13 0)
+			(at 189.23 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28885,7 +29062,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 151.13 0)
+			(at 189.23 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28894,7 +29071,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 151.13 0)
+			(at 189.23 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28903,7 +29080,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 151.13 0)
+			(at 189.23 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28912,7 +29089,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 151.13 0)
+			(at 189.23 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29027,7 +29204,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 189.23 163.83 0)
+		(at 205.74 163.83 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29036,7 +29213,7 @@
 		(dnp no)
 		(uuid "2f373f98-b1b3-4ea1-9f8f-469e58e714cc")
 		(property "Reference" "R2"
-			(at 186.69 162.5599 0)
+			(at 203.2 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29045,7 +29222,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 186.69 165.0999 0)
+			(at 203.2 165.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29056,7 +29233,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 189.23 163.83 0)
+			(at 205.74 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29065,7 +29242,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 189.23 163.83 0)
+			(at 205.74 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29074,7 +29251,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 189.23 163.83 0)
+			(at 205.74 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29083,7 +29260,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 189.23 163.83 0)
+			(at 205.74 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29092,7 +29269,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 189.23 163.83 0)
+			(at 205.74 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29117,7 +29294,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 143.51 90)
+		(at 189.23 143.51 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29126,7 +29303,7 @@
 		(dnp no)
 		(uuid "40034362-5a1f-4976-91b4-a25c69d544f5")
 		(property "Reference" "R21"
-			(at 179.578 142.748 90)
+			(at 187.198 142.748 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29135,7 +29312,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 142.748 90)
+			(at 194.056 142.748 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29146,7 +29323,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 143.51 0)
+			(at 189.23 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29155,7 +29332,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 143.51 0)
+			(at 189.23 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29164,7 +29341,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 143.51 0)
+			(at 189.23 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29173,7 +29350,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 143.51 0)
+			(at 189.23 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29182,7 +29359,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 143.51 0)
+			(at 189.23 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29297,7 +29474,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 156.21 90)
+		(at 189.23 156.21 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29306,7 +29483,7 @@
 		(dnp no)
 		(uuid "4995df04-d264-4207-b72b-8534235ea649")
 		(property "Reference" "R25"
-			(at 179.578 155.448 90)
+			(at 187.198 155.448 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29315,7 +29492,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 155.448 90)
+			(at 194.056 155.448 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29326,7 +29503,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 156.21 0)
+			(at 189.23 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29335,7 +29512,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 156.21 0)
+			(at 189.23 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29344,7 +29521,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 156.21 0)
+			(at 189.23 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29353,7 +29530,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 156.21 0)
+			(at 189.23 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29362,7 +29539,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 156.21 0)
+			(at 189.23 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29387,7 +29564,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 257.81 114.3 0)
+		(at 257.81 118.11 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29396,7 +29573,7 @@
 		(dnp no)
 		(uuid "4efb6af0-b1cb-400f-8924-bad77419d6f0")
 		(property "Reference" "R11"
-			(at 255.27 113.0299 0)
+			(at 255.27 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29405,7 +29582,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 255.27 115.5699 0)
+			(at 255.27 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29416,7 +29593,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 257.81 114.3 0)
+			(at 257.81 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29425,7 +29602,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 257.81 114.3 0)
+			(at 257.81 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29434,7 +29611,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 257.81 114.3 0)
+			(at 257.81 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29443,7 +29620,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 257.81 114.3 0)
+			(at 257.81 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29452,7 +29629,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 257.81 114.3 0)
+			(at 257.81 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29477,7 +29654,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 140.97 90)
+		(at 189.23 140.97 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29486,7 +29663,7 @@
 		(dnp no)
 		(uuid "52eb04f2-b2cc-46e5-910a-00f2cd1c2e3a")
 		(property "Reference" "R20"
-			(at 179.578 140.208 90)
+			(at 187.198 140.208 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29495,7 +29672,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 140.208 90)
+			(at 194.056 140.208 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29506,7 +29683,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 140.97 0)
+			(at 189.23 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29515,7 +29692,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 140.97 0)
+			(at 189.23 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29524,7 +29701,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 140.97 0)
+			(at 189.23 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29533,7 +29710,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 140.97 0)
+			(at 189.23 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29542,7 +29719,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 140.97 0)
+			(at 189.23 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29567,7 +29744,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 133.35 90)
+		(at 189.23 133.35 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29576,7 +29753,7 @@
 		(dnp no)
 		(uuid "5836c73f-832f-41d0-805f-7d4d19616d87")
 		(property "Reference" "R17"
-			(at 179.578 132.588 90)
+			(at 187.198 132.588 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29585,7 +29762,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 132.588 90)
+			(at 194.056 132.588 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29596,7 +29773,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 133.35 0)
+			(at 189.23 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29605,7 +29782,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 133.35 0)
+			(at 189.23 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29614,7 +29791,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 133.35 0)
+			(at 189.23 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29623,7 +29800,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 133.35 0)
+			(at 189.23 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29632,7 +29809,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 133.35 0)
+			(at 189.23 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29875,7 +30052,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 138.43 90)
+		(at 189.23 138.43 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29884,7 +30061,7 @@
 		(dnp no)
 		(uuid "6c4d2798-4075-4b54-a575-d68d17b2a1dc")
 		(property "Reference" "R19"
-			(at 179.578 137.668 90)
+			(at 187.198 137.668 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29893,7 +30070,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 137.668 90)
+			(at 194.056 137.668 90)
 			(effects
 				(font
 					(size 1 1)
@@ -29904,7 +30081,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 138.43 0)
+			(at 189.23 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29913,7 +30090,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 138.43 0)
+			(at 189.23 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29922,7 +30099,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 138.43 0)
+			(at 189.23 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29931,7 +30108,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 138.43 0)
+			(at 189.23 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29940,7 +30117,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 138.43 0)
+			(at 189.23 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30030,7 +30207,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 222.25 114.3 0)
+		(at 222.25 118.11 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -30039,7 +30216,7 @@
 		(dnp no)
 		(uuid "6e741345-10ba-4f86-b84d-b9e44fbf75ae")
 		(property "Reference" "R6"
-			(at 219.71 113.0299 0)
+			(at 219.71 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30048,7 +30225,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 219.71 115.5699 0)
+			(at 219.71 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30059,7 +30236,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 222.25 114.3 0)
+			(at 222.25 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30068,7 +30245,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 222.25 114.3 0)
+			(at 222.25 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30077,7 +30254,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 222.25 114.3 0)
+			(at 222.25 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30086,7 +30263,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 222.25 114.3 0)
+			(at 222.25 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30095,7 +30272,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 222.25 114.3 0)
+			(at 222.25 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30661,7 +30838,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 204.47 114.3 0)
+		(at 204.47 118.11 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -30670,7 +30847,7 @@
 		(dnp no)
 		(uuid "747ba725-f1b3-4c9f-83a3-9051d9af780f")
 		(property "Reference" "R4"
-			(at 201.93 113.0299 0)
+			(at 201.93 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30679,7 +30856,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 201.93 115.5699 0)
+			(at 201.93 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30690,7 +30867,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 204.47 114.3 0)
+			(at 204.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30699,7 +30876,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 204.47 114.3 0)
+			(at 204.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30708,7 +30885,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 204.47 114.3 0)
+			(at 204.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30717,7 +30894,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 204.47 114.3 0)
+			(at 204.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30726,7 +30903,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 204.47 114.3 0)
+			(at 204.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30907,7 +31084,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 153.67 90)
+		(at 189.23 153.67 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -30916,7 +31093,7 @@
 		(dnp no)
 		(uuid "8a05a68a-9073-480f-bd44-984c293c627a")
 		(property "Reference" "R24"
-			(at 179.578 152.908 90)
+			(at 187.198 152.908 90)
 			(effects
 				(font
 					(size 1 1)
@@ -30925,7 +31102,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 152.908 90)
+			(at 194.056 152.908 90)
 			(effects
 				(font
 					(size 1 1)
@@ -30936,7 +31113,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 153.67 0)
+			(at 189.23 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30945,7 +31122,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 153.67 0)
+			(at 189.23 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30954,7 +31131,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 153.67 0)
+			(at 189.23 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30963,7 +31140,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 153.67 0)
+			(at 189.23 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30972,7 +31149,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 153.67 0)
+			(at 189.23 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30997,7 +31174,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 248.92 114.3 0)
+		(at 248.92 118.11 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31006,7 +31183,7 @@
 		(dnp no)
 		(uuid "8daa717e-df70-49a2-b3b1-fa0a69777a64")
 		(property "Reference" "R10"
-			(at 246.38 113.0299 0)
+			(at 246.38 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31015,7 +31192,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 246.38 115.5699 0)
+			(at 246.38 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31026,7 +31203,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 248.92 114.3 0)
+			(at 248.92 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31035,7 +31212,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 248.92 114.3 0)
+			(at 248.92 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31044,7 +31221,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 248.92 114.3 0)
+			(at 248.92 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31053,7 +31230,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 248.92 114.3 0)
+			(at 248.92 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31062,7 +31239,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 248.92 114.3 0)
+			(at 248.92 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31218,7 +31395,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 130.81 90)
+		(at 189.23 130.81 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31227,7 +31404,7 @@
 		(dnp no)
 		(uuid "8f8fb668-d620-4fd3-b95b-85d62fda2709")
 		(property "Reference" "R16"
-			(at 179.578 130.048 90)
+			(at 187.198 130.048 90)
 			(effects
 				(font
 					(size 1 1)
@@ -31236,7 +31413,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 130.048 90)
+			(at 194.056 130.048 90)
 			(effects
 				(font
 					(size 1 1)
@@ -31247,7 +31424,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 130.81 0)
+			(at 189.23 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31256,7 +31433,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 130.81 0)
+			(at 189.23 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31265,7 +31442,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 130.81 0)
+			(at 189.23 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31274,7 +31451,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 130.81 0)
+			(at 189.23 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31283,7 +31460,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 130.81 0)
+			(at 189.23 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31308,8 +31485,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 120.65 130.81 0)
-		(mirror y)
+		(at 116.84 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31317,7 +31493,7 @@
 		(dnp no)
 		(uuid "9303fb20-0e13-43fb-a8ea-ba52221649fe")
 		(property "Reference" "C14"
-			(at 118.11 129.5462 0)
+			(at 119.38 129.5462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31326,7 +31502,7 @@
 			)
 		)
 		(property "Value" "2u2"
-			(at 118.11 132.0862 0)
+			(at 119.38 132.0862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31337,7 +31513,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 120.65 130.81 0)
+			(at 116.84 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31346,7 +31522,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R60J225ME47-01.pdf"
-			(at 120.65 130.81 0)
+			(at 116.84 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31355,7 +31531,7 @@
 			)
 		)
 		(property "Description" "2.2 µF ±20% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric)"
-			(at 120.65 130.81 0)
+			(at 116.84 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31364,7 +31540,7 @@
 			)
 		)
 		(property "Digikey stock" "7,591,739 - 6/7/2024"
-			(at 120.65 130.81 0)
+			(at 116.84 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31373,7 +31549,7 @@
 			)
 		)
 		(property "MPN" "GRM033R60J225ME47D"
-			(at 120.65 130.81 0)
+			(at 116.84 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31398,7 +31574,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 168.91 0)
+		(at 205.74 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31406,7 +31582,7 @@
 		(dnp no)
 		(uuid "9888f938-5b9d-4860-988a-ec2183353e01")
 		(property "Reference" "#PWR03"
-			(at 189.23 175.26 0)
+			(at 205.74 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31415,7 +31591,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 189.23 172.974 0)
+			(at 205.74 172.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31423,7 +31599,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 168.91 0)
+			(at 205.74 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31432,7 +31608,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 168.91 0)
+			(at 205.74 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31441,7 +31617,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 168.91 0)
+			(at 205.74 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31594,7 +31770,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 146.05 90)
+		(at 189.23 146.05 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31603,7 +31779,7 @@
 		(dnp no)
 		(uuid "a9049f2f-f257-4497-a698-a101970067be")
 		(property "Reference" "R22"
-			(at 179.578 145.288 90)
+			(at 187.198 145.288 90)
 			(effects
 				(font
 					(size 1 1)
@@ -31612,7 +31788,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 145.288 90)
+			(at 194.056 145.288 90)
 			(effects
 				(font
 					(size 1 1)
@@ -31623,7 +31799,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 146.05 0)
+			(at 189.23 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31632,7 +31808,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 146.05 0)
+			(at 189.23 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31641,7 +31817,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 146.05 0)
+			(at 189.23 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31650,7 +31826,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 146.05 0)
+			(at 189.23 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31659,7 +31835,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 146.05 0)
+			(at 189.23 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31684,7 +31860,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 231.14 114.3 0)
+		(at 231.14 118.11 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31693,7 +31869,7 @@
 		(dnp no)
 		(uuid "b1589321-cc28-4c3a-b336-8fe809903563")
 		(property "Reference" "R7"
-			(at 228.6 113.0299 0)
+			(at 228.6 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31702,7 +31878,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 228.6 115.5699 0)
+			(at 228.6 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31713,7 +31889,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 231.14 114.3 0)
+			(at 231.14 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31722,7 +31898,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 231.14 114.3 0)
+			(at 231.14 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31731,7 +31907,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 231.14 114.3 0)
+			(at 231.14 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31740,7 +31916,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 231.14 114.3 0)
+			(at 231.14 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31749,7 +31925,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 231.14 114.3 0)
+			(at 231.14 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32019,7 +32195,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 181.61 128.27 90)
+		(at 189.23 128.27 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -32028,7 +32204,7 @@
 		(dnp no)
 		(uuid "cad80880-34f3-44fd-8409-4dc712e0410c")
 		(property "Reference" "R15"
-			(at 179.578 127.508 90)
+			(at 187.198 127.508 90)
 			(effects
 				(font
 					(size 1 1)
@@ -32037,7 +32213,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 186.436 127.508 90)
+			(at 194.056 127.508 90)
 			(effects
 				(font
 					(size 1 1)
@@ -32048,7 +32224,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 181.61 128.27 0)
+			(at 189.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32057,7 +32233,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
-			(at 181.61 128.27 0)
+			(at 189.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32066,7 +32242,7 @@
 			)
 		)
 		(property "Description" "0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Thick Film"
-			(at 181.61 128.27 0)
+			(at 189.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32075,7 +32251,7 @@
 			)
 		)
 		(property "Digikey stock" "3,436,788 - 6/1/2024"
-			(at 181.61 128.27 0)
+			(at 189.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32084,7 +32260,7 @@
 			)
 		)
 		(property "MPN" "RMCF0201ZT0R00"
-			(at 181.61 128.27 0)
+			(at 189.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32175,7 +32351,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 266.7 114.3 0)
+		(at 266.7 118.11 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -32184,7 +32360,7 @@
 		(dnp no)
 		(uuid "cc913528-11ec-4a6b-9118-696d2251e794")
 		(property "Reference" "R12"
-			(at 264.16 113.0299 0)
+			(at 264.16 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32193,7 +32369,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 264.16 115.5699 0)
+			(at 264.16 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32204,7 +32380,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 266.7 114.3 0)
+			(at 266.7 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32213,7 +32389,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 266.7 114.3 0)
+			(at 266.7 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32222,7 +32398,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 266.7 114.3 0)
+			(at 266.7 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32231,7 +32407,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 266.7 114.3 0)
+			(at 266.7 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32240,7 +32416,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 266.7 114.3 0)
+			(at 266.7 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35712,7 +35888,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 120.65 135.89 0)
+		(at 116.84 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35720,7 +35896,7 @@
 		(dnp no)
 		(uuid "d1e3e15e-9c6e-4e90-ad76-030be05a0dcd")
 		(property "Reference" "#PWR011"
-			(at 120.65 142.24 0)
+			(at 116.84 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35729,7 +35905,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.65 139.954 0)
+			(at 116.84 139.954 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35737,7 +35913,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 135.89 0)
+			(at 116.84 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35746,7 +35922,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 135.89 0)
+			(at 116.84 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35755,7 +35931,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 120.65 135.89 0)
+			(at 116.84 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35932,7 +36108,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 195.58 114.3 0)
+		(at 195.58 118.11 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -35941,7 +36117,7 @@
 		(dnp no)
 		(uuid "ed3752fa-22ac-449c-bfc8-8528592cdb17")
 		(property "Reference" "R3"
-			(at 193.04 113.0299 0)
+			(at 193.04 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35950,7 +36126,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 193.04 115.5699 0)
+			(at 193.04 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35961,7 +36137,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 195.58 114.3 0)
+			(at 195.58 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35970,7 +36146,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 195.58 114.3 0)
+			(at 195.58 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35979,7 +36155,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 195.58 114.3 0)
+			(at 195.58 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35988,7 +36164,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 195.58 114.3 0)
+			(at 195.58 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35997,7 +36173,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 195.58 114.3 0)
+			(at 195.58 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36022,7 +36198,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 240.03 114.3 0)
+		(at 240.03 118.11 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -36031,7 +36207,7 @@
 		(dnp no)
 		(uuid "f910581f-7cae-49fe-afee-1c455b64ff04")
 		(property "Reference" "R9"
-			(at 237.49 113.0299 0)
+			(at 237.49 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36040,7 +36216,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 237.49 115.5699 0)
+			(at 237.49 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36051,7 +36227,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 240.03 114.3 0)
+			(at 240.03 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36060,7 +36236,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 240.03 114.3 0)
+			(at 240.03 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36069,7 +36245,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Moisture Resistant Thick Film"
-			(at 240.03 114.3 0)
+			(at 240.03 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36078,7 +36254,7 @@
 			)
 		)
 		(property "Digikey stock" "6,799,686 - 3/1/2024"
-			(at 240.03 114.3 0)
+			(at 240.03 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36087,7 +36263,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0710KL"
-			(at 240.03 114.3 0)
+			(at 240.03 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
